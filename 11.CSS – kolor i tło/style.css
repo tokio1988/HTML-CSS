@@ -1,0 +1,19 @@
+.first{
+    background-color: #b2b2b2;
+background-color: rgba(0, 0, 0, .4);
+}
+.second{
+    background-color: #b2b2b2;
+opacity: .3;
+}
+.gradient{
+   background: rgba(147,206,222,1);
+}
+.image{
+    height: 200px;
+    width: 100%;
+    background-image: url(image/1.jpg);
+    background-attachment: inherit;
+    background-position: center;
+    background-repeat: no-repeat;
+}

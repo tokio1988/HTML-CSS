@@ -1,0 +1,12 @@
+.link{
+    width: 500px;
+    border: 1px; 
+    border-style: solid;
+    border-color: red;
+}
+table, td, th {
+    border: 1px solid;
+    height: 2em;
+    min-width: 2em;
+    white-space: nowrap;
+}

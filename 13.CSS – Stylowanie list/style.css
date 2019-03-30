@@ -1,0 +1,8 @@
+.squareList{
+    list-style-type: square;
+}
+.menuList{
+    display: inline-block;
+    color: #116493;
+    word-spacing: 5px;
+}
